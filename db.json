@@ -6,36 +6,33 @@
       "password": "1234",
       "idType": "bankId"
     }
-  
-    
   ],
-
-  "Recommendation":[
+  "Recommendation": [
     {
       "heading": "Increase monthly pension contribution",
-    "details": "Our analysis shows that you have the capacity to increase your monthly pension contributions by 10% will bolster your retirement savings, ensuring a more comfortable future."
-}
+      "details": "Our analysis shows that you have the capacity to increase your monthly pension contributions by 10%. This will bolster your retirement savings, ensuring a more comfortable future."
+    }
   ],
   "dashboardContent": [
     {
       "heading": "The Private Service",
-      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard",
+      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard"
     },
     {
       "heading": "MSave",
-      "content": "Securely build and manage your savings effortlessly with our intuitive digital platform",
+      "content": "Securely build and manage your savings effortlessly with our intuitive digital platform"
     },
     {
       "heading": "Max Funds",
-      "content": "Invest wisely with Max Funds, offering tailored fund options designed to maximize your returns",
+      "content": "Invest wisely with Max Funds, offering tailored fund options designed to maximize your returns"
     },
     {
       "heading": "Advice4Life",
-      "content": "Personalized, lifelong financial planning to secure your future, every step of the way",
+      "content": "Personalized, lifelong financial planning to secure your future, every step of the way"
     },
     {
       "heading": "The Private Service",
-      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard",
+      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard"
     }
   ]
 }
