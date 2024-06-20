@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "c5db",
+      "userName": "bhuvanesh",
+      "password": "1234",
+      "idType": "bankId"
+    },
+  ],
+  "dashboardContent": [
+    {
+      "heading": "The Private Service",
+      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard",
+      "id": "2a3a"
+    },
+    {
+      "heading": "MSave",
+      "content": "Securely build and manage your savings effortlessly with our intuitive digital platform",
+      "id": "87fb"
+    },
+    {
+      "heading": "Max Funds",
+      "content": "Invest wisely with Max Funds, offering tailored fund options designed to maximize your returns",
+      "id": "5dff"
+    },
+    {
+      "heading": "Advice4Life",
+      "content": "Personalized, lifelong financial planning to secure your future, every step of the way",
+      "id": "8789"
+    },
+    {
+      "heading": "The Private Service",
+      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard",
+      "id": "ba60"
+    }
+  ]
+}
