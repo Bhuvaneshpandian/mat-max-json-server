@@ -7,10 +7,22 @@
       "idType": "bankId"
     }
   ],
-  "Recommendation": [
+  "recommendation": [
     {
       "heading": "Increase monthly pension contribution",
       "details": "Our analysis shows that you have the capacity to increase your monthly pension contributions by 10%. This will bolster your retirement savings, ensuring a more comfortable future."
+    },
+    {
+      "heading": "Increase Emergency Fund Allocation",
+      "details": "Allocating an additional 5% to his emergency fund will provide greater financial security, especially considering his risk-averse approach to investing."
+    },
+    {
+      "heading": "Tax-Efficient Investing Strategy",
+      "details": "Implementing a tax-efficient strategy by maximizing contributions to ISAs or SIPPs can optimize his tax savings and enhance overall portfolio growth, aligning with his goal of minimizing tax liabilities."
+    },
+    {
+      "heading": "Book an advisor appointment ",
+      "details": "Our advisors can review your current portfolio, assess your risk tolerance, and develop a tailored plan to help you achieve your financial objectives more effectively."
     }
   ],
   "dashboardContent": [
