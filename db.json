@@ -5,72 +5,180 @@
       "userName": "bhuvanesh",
       "password": "1234",
       "idType": "bankId"
+    },
+    {
+      "id": "58b1",
+      "userName": "pandian",
+      "password": "1234",
+      "idType": "bankId"
     }
   ],
   "recommendation": [
     {
       "heading": "Increase monthly pension contribution",
-      "details": "Our analysis shows that you have the capacity to increase your monthly pension contributions by 10%. This will bolster your retirement savings, ensuring a more comfortable future."
+      "details": "Our analysis shows that you have the capacity to increase your monthly pension contributions by 10%. This will bolster your retirement savings, ensuring a more comfortable future.",
+      "id": "f47e"
     },
     {
       "heading": "Increase Emergency Fund Allocation",
-      "details": "Allocating an additional 5% to his emergency fund will provide greater financial security, especially considering his risk-averse approach to investing."
+      "details": "Allocating an additional 5% to his emergency fund will provide greater financial security, especially considering his risk-averse approach to investing.",
+      "id": "7879"
     },
     {
       "heading": "Tax-Efficient Investing Strategy",
-      "details": "Implementing a tax-efficient strategy by maximizing contributions to ISAs or SIPPs can optimize his tax savings and enhance overall portfolio growth, aligning with his goal of minimizing tax liabilities."
+      "details": "Implementing a tax-efficient strategy by maximizing contributions to ISAs or SIPPs can optimize his tax savings and enhance overall portfolio growth, aligning with his goal of minimizing tax liabilities.",
+      "id": "809e"
     },
     {
       "heading": "Book an advisor appointment ",
-      "details": "Our advisors can review your current portfolio, assess your risk tolerance, and develop a tailored plan to help you achieve your financial objectives more effectively."
+      "details": "Our advisors can review your current portfolio, assess your risk tolerance, and develop a tailored plan to help you achieve your financial objectives more effectively.",
+      "id": "5ebc"
     }
   ],
   "dashboardContent": [
     {
       "heading": "The Private Service",
-      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard"
+      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard",
+      "id": "e43e"
     },
     {
       "heading": "MSave",
-      "content": "Securely build and manage your savings effortlessly with our intuitive digital platform"
+      "content": "Securely build and manage your savings effortlessly with our intuitive digital platform",
+      "id": "1305"
     },
     {
       "heading": "Max Funds",
-      "content": "Invest wisely with Max Funds, offering tailored fund options designed to maximize your returns"
+      "content": "Invest wisely with Max Funds, offering tailored fund options designed to maximize your returns",
+      "id": "7e24"
     },
     {
       "heading": "Advice4Life",
-      "content": "Personalized, lifelong financial planning to secure your future, every step of the way"
+      "content": "Personalized, lifelong financial planning to secure your future, every step of the way",
+      "id": "7f68"
     },
     {
       "heading": "The Private Service",
-      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard"
+      "content": "Simplify and optimize your financial management with a comprehensive, user-friendly dashboard",
+      "id": "fcc3"
     }
   ],
-  "pension":  {
-    "id": 1,
-    "monthlyPensionAmt": 280,
-    "totalPensionAmount": 16800,
-    "Recommended": 90720,
-    "range": 7,
-    "chartOptions": {
-      "animationEnabled": false,
-      "backgroundColor": "rgba(0, 0, 0, 0)",
-      "zoomEnabled": false,
-      "data": [{
-        "type": "doughnut",
-        "yValueFormatString": "#,###.##'%'",
-        "colors": ["#ff6347", "#4682b4", "#32cd32"],
-        "dataPoints": [
-          { "y": 28, "name": "Pensions", "color": "#D3D3D3" },
-          { "y": 20, "name": "Insurances", "color": "#0099FF" },
-          { "y": 15, "name": "License", "color": "#D3D3D3" },
-          { "y": 23, "name": "Cash", "color": "#D3D3D3" },
-          { "y": 12, "name": "Real estate", "color": "#D3D3D3" },
-          { "y": 12, "name": "Equity", "color": "#D3D3D3" }
+  "pension": [
+    {
+      "id": "c5db",
+      "monthlyPensionAmt": 3579,
+      "totalPensionAmount": 16800,
+      "Recommended": 111958,
+      "range": 16,
+      "chartOptions": {
+        "animationEnabled": false,
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "zoomEnabled": false,
+        "data": [
+          {
+            "type": "doughnut",
+            "yValueFormatString": "#,###.##'%'",
+            "colors": [
+              "#ff6347",
+              "#4682b4",
+              "#32cd32"
+            ],
+            "dataPoints": [
+              {
+                "y": 28,
+                "name": "Pensions",
+                "color": "#D3D3D3"
+              },
+              {
+                "y": 20,
+                "name": "Insurances",
+                "color": "#0099FF"
+              },
+              {
+                "y": 15,
+                "name": "License",
+                "color": "#D3D3D3"
+              },
+              {
+                "y": 23,
+                "name": "Cash",
+                "color": "#D3D3D3"
+              },
+              {
+                "y": 12,
+                "name": "Real estate",
+                "color": "#D3D3D3"
+              },
+              {
+                "y": 12,
+                "name": "Equity",
+                "color": "#D3D3D3"
+              }
+            ]
+          }
         ]
-      }]
+      }
     }
-   
-  }
+  ],
+  "news": [
+    {
+      "image": "assets/new1.png",
+      "heading": "Apple's market cap closes above $3 trillion",
+      "news": "Apple's market cap closed at about $3 trillion for the first time since August after its shares climbed 2% to $193.42 per share on Tuesday.",
+      "id": "cb72"
+    },
+    {
+      "image": "assets/news2.png",
+      "heading": "Tesla shares drop 5% after HSBC initiates coverage, says sell",
+      "news": "Tesla shares declined by about 5% on Thursday to close at $209.98 after HSBC initiated coverage of the EV maker with a “reduce” rating and a price target of $146 per share.",
+      "id": "64d4"
+    },
+    {
+      "image": "assets/news3.png",
+      "heading": "Google launches its largest and ‘most capable’ AI model, Gemini",
+      "news": "Tesla shares declined by about 5% on Thursday to close at $209.98 after HSBC initiated coverage of the EV maker with a “reduce” rating and a price target of $146 per share.",
+      "id": "6d8e"
+    }
+  ],
+  "upcommingPayments": [
+    {
+      "image": "assets/calender.png",
+      "content": "Life Insurance",
+      "subContent": "Premium Due",
+      "price": "$350",
+      "subPrice": "$105",
+      "id": "afa3"
+    },
+    {
+      "image": "assets/calender.png",
+      "content": "Life Insurance",
+      "subContent": "Premium Due",
+      "price": "$450",
+      "subPrice": "$205",
+      "id": "9fef"
+    },
+    {
+      "image": "assets/calender.png",
+      "content": "Life Insurance",
+      "subContent": "Premium Due",
+      "price": "$550",
+      "subPrice": "$305",
+      "id": "6d4a"
+    },
+    {
+      "image": "assets/calender.png",
+      "content": "Life Insurance",
+      "subContent": "Premium Due",
+      "price": "$650",
+      "subPrice": "$405",
+      "id": "fc81"
+    },
+    {
+      "image": "assets/calender.png",
+      "content": "Life Insurance",
+      "subContent": "Premium Due",
+      "price": "$750",
+      "subPrice": "$505",
+      "id": "abc9"
+    }
+  ]
 }
